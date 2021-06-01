@@ -1,0 +1,49 @@
+#: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
+msgid "A screenshot of a website using AMP."
+msgstr ""
+msgid_plural "%s days"
+
+#: /views/partials/format-visuals/websites.j2:10
+msgid "A screenshot showing amp-sidebar."
+msgstr "Հատված, որը ցույց է տալիս AMP- կողային սյունը:"
+
+#: /views/partials/format-visuals/websites.j2:7
+msgid "A website screenshot."
+msgstr "Վեբ կայքի էկրանին"
+
+#: /views/partials/footer.j2:74
+msgid "AMP Brand Materials"
+msgstr "AMP ապրանքանիշի նյութեր"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
+msgid "AMP Caches & CORS"
+msgstr "AMP պահոցներ և CORS"
+
+#: /views/partials/footer.j2:71
+msgid "AMP Conf 2020"
+msgstr "AMP Conf 2020"
+
+#: /views/partials/footer.j2:72
+msgid "AMP Contributor Summit 2019"
+msgstr "AMP- ի հեղինակների գագաթնաժողով 2019"
+
+#: /views/partials/banner.j2:5
+msgid "AMP Contributor Summit 2019 Applications Now Open"
+msgstr "AMP- ի ներդրողների գագաթնաժողով 2019-ի ծրագրերը այժմ բաց են"
+
+#: /views/partials/footer.j2:43
+msgid "AMP Framework"
+msgstr "AMP Շրջանակ"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
+msgid "AMP HTML Specification"
+msgstr "AMP HTML հստակեցում"
+
+#: /content/amp-dev/support/faq/overview.md
+msgid "AMP Overview"
+msgstr "AMP ակնարկ"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
+msgid "AMP for Email Specification"
+msgstr "AMP էլփոստի հստակեցման համար"
+
